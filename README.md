@@ -155,13 +155,15 @@ __pycache__/
 ## Assets
 
 ### Architecture Diagram
-![Architecture Diagram](assets/architecture_diagram.png)
+!<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/4bc4ea18-4349-4a30-9639-3ee518806d2e" />
+)
 
 ### Cover Banner
-![Cover Banner](assets/cover_page_banner.png)
+!<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/c601556d-9fc4-498a-925a-95fa0e07b333" />
+)
 
 ---
 
 ## Demo Script
 
-See [DEMO_SCRIPT.txt]( `DEMO_SCRIPT.txt`) for the full narrated walkthrough.
+See [) for the full narrated walkthrough.

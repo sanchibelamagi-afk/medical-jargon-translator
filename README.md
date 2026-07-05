@@ -164,4 +164,4 @@ __pycache__/
 
 ## Demo Script
 
-See [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt) for the full narrated walkthrough.
+See [DEMO_SCRIPT.txt]( `DEMO_SCRIPT.txt`) for the full narrated walkthrough.
